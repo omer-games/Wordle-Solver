@@ -15,7 +15,7 @@ It don't have a real use, its just a cool thing a made.
 2. **Change to the Project Directory:**
 
     ```bash
-    cd Wordle/wordle%20solver
+    cd 'Project-Path'
     ```
 
     Note: Make sure to navigate to the actual directory where the `wordle_solver.py` file is located.
