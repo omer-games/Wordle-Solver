@@ -9,7 +9,7 @@ It don't have a real use, its just a cool thing a made.
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/omer-games/Wordle.git
+    git clone Would_be_updated_later
     ```
 
 2. **Change to the Project Directory:**
