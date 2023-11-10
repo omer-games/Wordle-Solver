@@ -26,7 +26,7 @@ It don't have a real use, its just a cool thing a made.
     python wordle_solver.py
     ```
 
-Instead of 2 and 3 you can run the .exe file in the dist folder.
+Alternatively, you can run the executable file in the dist folder.
 
 Follow the on-screen instructions to input words and receive feedback until you find the correct word.
 
