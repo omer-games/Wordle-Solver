@@ -37,5 +37,9 @@ Follow the on-screen instructions to input words and receive feedback until you 
 
    Install dependencies using:
 
+## Developer
+
+Omer-Games
+
    ```bash
    pip install colored
