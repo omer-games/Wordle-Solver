@@ -36,10 +36,9 @@ Follow the on-screen instructions to input words and receive feedback until you 
 - [colored](https://pypi.org/project/colored/)
 
    Install dependencies using:
+   ```bash
+   pip install colored
 
 ## Developer
 
 Omer-Games
-
-   ```bash
-   pip install colored
